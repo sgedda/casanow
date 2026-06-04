@@ -1,6 +1,6 @@
-# CasaNow — Critical review of PLAN.md
+# CasaNow — Critical review
 
-Honest critique of [PLAN.md](./PLAN.md): what holds up, what is missing, and what will hurt most in Marbella. Use this alongside the main plan when scoping v1 and deciding what to build first.
+Honest critique of [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) and [TECH_PLAN.md](./TECH_PLAN.md): what holds up, what is missing, and what will hurt most in Marbella. Index: [PLAN.md](./PLAN.md).
 
 ---
 
@@ -76,7 +76,7 @@ Apple scrutinizes peer-to-peer and physical services. You need working moderatio
 
 ---
 
-## Weaker assumptions in PLAN.md (challenge these)
+## Weaker assumptions (challenge these)
 
 | Assumption | Reality check |
 |------------|----------------|
@@ -88,7 +88,7 @@ Apple scrutinizes peer-to-peer and physical services. You need working moderatio
 
 ---
 
-## Recommended additions to PLAN.md
+## Recommended additions to the plans
 
 1. **One-page positioning**: vs WhatsApp, vs Habitissimo (leads), vs hiring a empresa.
 2. **V1 scope box**: 3 categories, fixed-price or single bid, Marbella-only, no “Otros” at launch.
@@ -102,7 +102,7 @@ Apple scrutinizes peer-to-peer and physical services. You need working moderatio
 
 ## Suggested v1 scope (tightened)
 
-Use this to cut PLAN.md scope before writing code:
+Use this to cut scope before writing code (update [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) and [TECH_PLAN.md](./TECH_PLAN.md)):
 
 | In v1 | Defer |
 |-------|--------|
@@ -128,7 +128,7 @@ Use this to cut PLAN.md scope before writing code:
 
 ## Bottom line
 
-`PLAN.md` is a **solid technical and compliance sketch** and correctly warns that ops/legal dominate long-term time. It is **not yet a launch playbook**: competition, MVP cuts, money flows (IVA, refunds, minimum fees), disintermediation, and solo-operator ops depth are the main holes.
+The plans are a **solid technical and compliance sketch** and correctly warns that ops/legal dominate long-term time. It is **not yet a launch playbook**: competition, MVP cuts, money flows (IVA, refunds, minimum fees), disintermediation, and solo-operator ops depth are the main holes.
 
 **One line:** Winning **liquidity and trust** in a cash-heavy, relationship-driven market—while you carry **legal operator liability**—matters more than Expo + Supabase; payments and categories are where that fight is won or lost.
 
@@ -136,4 +136,6 @@ Use this to cut PLAN.md scope before writing code:
 
 ## Related docs
 
-- [PLAN.md](./PLAN.md) — Main product, stack, phases, launch strategy
+- [PLAN.md](./PLAN.md) — Index
+- [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) — Product, legal, launch, ops
+- [TECH_PLAN.md](./TECH_PLAN.md) — Stack, schema, build phases
