@@ -8,6 +8,8 @@ Marbella-first home-services marketplace (Tiptapp-style). Plans are split so you
 | **[TECH_PLAN.md](./TECH_PLAN.md)** | Expo, Supabase, Stripe, schema, phases, engineering checklist |
 | **[CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md)** | Gaps, ranked challenges, suggested v1 scope cuts |
 | **[APP_SKETCHES.md](./APP_SKETCHES.md)** | Wireframes, flows, screens (customer & helper) |
+| **[TECH_CHALLENGES.md](./TECH_CHALLENGES.md)** | Hardest technical work (Stripe, state machine, RLS, push) |
+| **[LAUNCH_PLAYBOOK.md](./LAUNCH_PLAYBOOK.md)** | Unit economics, GTM/liquidity, money policy, trust & safety, ops, metrics |
 
 ---
 

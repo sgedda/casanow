@@ -90,13 +90,15 @@ Apple scrutinizes peer-to-peer and physical services. You need working moderatio
 
 ## Recommended additions to the plans
 
-1. **One-page positioning**: vs WhatsApp, vs Habitissimo (leads), vs hiring a empresa.
-2. **V1 scope box**: 3 categories, fixed-price or single bid, Marbella-only, no “Otros” at launch.
-3. **Payment policy page**: cancel/refund/chargeback, capture timing, cash fee amount (e.g. €2.99).
-4. **Liquidity playbook**: guaranteed response time, founder-filled jobs week 1–4, referral €X helper/customer.
-5. **Helper funnel metrics**: registered → Connect complete → first job → 30-day active.
-6. **Kill/pivot criteria** at 60 and 90 days.
-7. **Marketing line item** and simple landing page in bootstrap list.
+Most of these are now addressed in **[LAUNCH_PLAYBOOK.md](./LAUNCH_PLAYBOOK.md)** (economics, GTM, money policy, trust & safety, ops, metrics).
+
+1. **One-page positioning**: vs WhatsApp, vs Habitissimo (leads), vs hiring a empresa. → Playbook §1
+2. **V1 scope box**: 3 categories, fixed-price or single bid, Marbella-only, no “Otros” at launch. → see §"Suggested v1 scope" below
+3. **Payment policy page**: cancel/refund/chargeback, capture timing, cash fee amount (e.g. €2.99). → Playbook §4
+4. **Liquidity playbook**: guaranteed response time, founder-filled jobs week 1–4, referral €X helper/customer. → Playbook §3
+5. **Helper funnel metrics**: registered → Connect complete → first job → 30-day active. → Playbook §7
+6. **Kill/pivot criteria** at 60 and 90 days. → Playbook §7
+7. **Marketing line item** and simple landing page in bootstrap list. → Playbook §3 (web/SEO gap)
 
 ---
 

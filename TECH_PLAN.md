@@ -2,7 +2,7 @@
 
 **Stack:** React Native (Expo) + Supabase + Stripe Connect. Marbella geofence, dual payment (in-app + cash workflow), marketplace job lifecycle.
 
-**Related:** [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) · [APP_SKETCHES.md](./APP_SKETCHES.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
+**Related:** [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) · [TECH_CHALLENGES.md](./TECH_CHALLENGES.md) · [APP_SKETCHES.md](./APP_SKETCHES.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
 
 ---
 
@@ -120,6 +120,8 @@ One experienced developer; reviews all Cursor/AI output.
 ---
 
 ## Engineering risks (technical)
+
+See **[TECH_CHALLENGES.md](./TECH_CHALLENGES.md)** for ranked detail, edge cases, and week 1–2 payment spike.
 
 1. **Stripe Connect** — onboarding drop-off, restricted accounts, payout timing
 2. **Job state machine** — double-accept race (`assigned` lock + DB constraint)

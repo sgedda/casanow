@@ -2,7 +2,7 @@
 
 Marketplace for home help on the Costa del Sol: launch **Marbella-first**, you operate the Spanish legal entity. Non-technical work (liquidity, legal, trust, ops) dominates time to a sustainable launch.
 
-**Related:** [TECH_PLAN.md](./TECH_PLAN.md) · [APP_SKETCHES.md](./APP_SKETCHES.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
+**Related:** [TECH_PLAN.md](./TECH_PLAN.md) · [LAUNCH_PLAYBOOK.md](./LAUNCH_PLAYBOOK.md) · [APP_SKETCHES.md](./APP_SKETCHES.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
 
 ---
 
