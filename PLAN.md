@@ -7,6 +7,7 @@ Marbella-first home-services marketplace (Tiptapp-style). Plans are split so you
 | **[BUSINESS_PLAN.md](./BUSINESS_PLAN.md)** | Product vision, legal/tax, liquidity, launch, costs, risks, ops |
 | **[TECH_PLAN.md](./TECH_PLAN.md)** | Expo, Supabase, Stripe, schema, phases, engineering checklist |
 | **[CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md)** | Gaps, ranked challenges, suggested v1 scope cuts |
+| **[APP_SKETCHES.md](./APP_SKETCHES.md)** | Wireframes, flows, screens (customer & helper) |
 
 ---
 

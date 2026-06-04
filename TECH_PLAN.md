@@ -2,7 +2,7 @@
 
 **Stack:** React Native (Expo) + Supabase + Stripe Connect. Marbella geofence, dual payment (in-app + cash workflow), marketplace job lifecycle.
 
-**Related:** [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
+**Related:** [BUSINESS_PLAN.md](./BUSINESS_PLAN.md) · [APP_SKETCHES.md](./APP_SKETCHES.md) · [CRITICAL_REVIEW.md](./CRITICAL_REVIEW.md) · [PLAN.md](./PLAN.md) (index)
 
 ---
 
